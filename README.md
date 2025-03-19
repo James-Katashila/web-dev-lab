@@ -1,5 +1,5 @@
 # web-dev-lab
-James Katashila
+James Katashila and 
 Gift Mulenga
 
 Installing Required Tools:
